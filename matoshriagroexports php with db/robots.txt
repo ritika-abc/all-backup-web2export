@@ -1,0 +1,7 @@
+sitemap: https://matoshriagroexports.com/
+
+User-agent: *
+Allow: /
+
+User-agent: HTTrack
+Disallow: /
